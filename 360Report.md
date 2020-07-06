@@ -1,7 +1,3 @@
----
-title: "360 Report"
-output: html_document
----
 # IE360 Project Report
 Group 8:
 
