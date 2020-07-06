@@ -11,6 +11,6 @@ _Yağmur Karalar_
 
 _Abdulsamed Kağıt_
 
-[Here](files/360Report2.html) is the project report.
+[Here](files/360Report.html) is the project report.
 
 [Here](files/FullCode.R) is the full R code.
