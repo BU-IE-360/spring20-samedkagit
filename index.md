@@ -65,5 +65,3 @@ The forecasts created by the aforementioned approach are submitted to the system
 There were two main ways of improving our Arima model with regression (the first model): Adding more predictors and improving the forecasts of our predictors. The former can be managed by analyzing the root causes of the fluctuations in the demand so as to add new predictors to account for these fluctuations. The latter can be managed by trying out various models for our predictors so as to find the most accurate model for forecasting them. We confined ourselves to relying on the tbats() function for all of our predictors, but doing more work on this could have given us a better forecasting model for each of our predictors. The worst aspect of using regression in forecasting is the need to forecast the predictors as well, and not forecasting the predictors accurately will result in a poor prediction for the target even if the main model happens to be quite successful.
 
 [Here](files/FullCode.R) is the full R code.
-
-
